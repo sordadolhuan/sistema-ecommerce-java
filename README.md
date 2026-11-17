@@ -32,5 +32,6 @@ Projeto acadêmico desenvolvido para exercitar a organização de código, a mod
 ## Autor
 Lhuan Matheus Cabreira  
 Ian Walber Vaez
-Graduando em Engenharia de Software — UFMS
+
+Graduandos em Engenharia de Software — UFMS
 
